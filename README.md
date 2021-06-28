@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-de-brito-santos/)](https://www.linkedin.com/in/samuel-de-brito-santos/) 
+[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samuelsantos.ss95@gmail.com)](mailto:samuelsantos.ss95@gmail.com)
+
 <!--
 **coder-samuel/coder-samuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
