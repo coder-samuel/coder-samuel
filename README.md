@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-de-brito-santos/)](https://www.linkedin.com/in/samuel-de-brito-santos/) 
+[![Linkedin Badge](https://img.shields.io/badge/-samuel-de-brito-santos--6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-de-brito-santos/)](https://www.linkedin.com/in/samuel-de-brito-santos/) 
 [![Gmail Badge](https://img.shields.io/badge/-samuelsantos.ss95@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samuelsantos.ss95@gmail.com)](mailto:samuelsantos.ss95@gmail.com)
 
 <!--
