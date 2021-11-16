@@ -6,6 +6,8 @@
 | eu sou apenas um rapaz latino-americano, sem dinheiro no banco,
  sem parentes importantes e vindo do interior | BELCHIOR
  
+PT :brazil: | ES :es: | EN :us:
+
 ### Pronombres Personales: Él | Ele 
 
 !Hola! Soy estudiante de Ciencias del Lenguaje en la Universidad Federal de São Paulo y desarrolllador web fullstack egresado de Generation Brasil. 
