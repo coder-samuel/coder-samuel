@@ -1,16 +1,23 @@
-### System.out.println("Hello World!") 👋
+<h1 align=center> System.out.println("Hello World!") :man_technologist: </h1>
 
+<center>
+ 
 ![cFQIXJ7 - Imgur](https://user-images.githubusercontent.com/80654468/141055895-c71ddf05-a0f6-4432-8ffd-993dbe69adee.gif)
-
+ 
+</center>
+ 
 | eu sou apenas um rapaz latino-americano, sem dinheiro no banco,
  sem parentes importantes e vindo do interior | BELCHIOR
+ 
+### Pronombres Personales: Él | Ele 
 
 !Hola! Soy estudiante de Ciencias del Lenguaje en la Universidad Federal de São Paulo y desarrolllador web fullstack egresado de Generation Brasil. 
 I'm Samuel and I'm a fullstack web developer based in São Paulo 🇧🇷.
 
-En 2021, ecidí comenzar mi carrera en Tecnologías de la Información y Comunicación. Desde entonces, he estado exlorando diferentes paradigmas de desarrollo de sofware y trabajando con diferentes tecnologías Java y Spring Framework, HTML, CSS, JavaScript y Angular. Para la persistencia de datos utilizo bases de datos reacionales y no relacionales, orientadas a documentos: Postgres, MySQL y MongoDB.
+En 2021, decidí comenzar mi carrera en Tecnologías de la Información y Comunicación. Desde entonces, he estado exlorando diferentes paradigmas de desarrollo de sofware y trabajando con diferentes tecnologías Java y Spring Framework, HTML, CSS, JavaScript y Angular. Para la persistencia de datos utilizo bases de datos reacionales y no relacionales, orientadas a documentos: Postgres, MySQL y MongoDB.
 
-Metodolgías Ágiles: Scrum & Kanban
+### Metodolgías Ágiles: Scrum & Kanban
+
 
 
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-samuel&hide=html&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/coder-samuel)
