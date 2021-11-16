@@ -2,6 +2,9 @@
 
 ![cFQIXJ7 - Imgur](https://user-images.githubusercontent.com/80654468/141055895-c71ddf05-a0f6-4432-8ffd-993dbe69adee.gif)
 
+| sou apenas um rapaz latino-americano, sem dinheiro no banco
+ sem parentes importantes e vindo do interior | BELCHIOR
+
 I'm Samuel and I'm a fullstack web developer based in São Paulo 🇧🇷.
 
 In 2021, I've decided to change careers from Language Sciences to IT. Since then, I've explored different aspects of software development, I've worked with different technologies, such as Java/Spring/Hibernate, HTML, CSS, JavaScript and Postgres, MySQL and MongoDB. I have a strong intererest in Agile methodologies too.
