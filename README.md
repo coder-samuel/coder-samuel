@@ -9,9 +9,8 @@
 ### Pronombres Personales: Él | Ele 
 
 !Hola! Soy estudiante de Ciencias del Lenguaje en la Universidad Federal de São Paulo y desarrolllador web fullstack egresado de Generation Brasil. 
-I'm Samuel and I'm a fullstack web developer based in São Paulo 🇧🇷.
 
-En 2021, decidí comenzar mi carrera en Tecnologías de la Información y Comunicación. Desde entonces, he estado exlorando diferentes paradigmas de desarrollo de sofware y trabajando con diferentes tecnologías Java y Spring Framework, HTML, CSS, JavaScript y Angular. Para la persistencia de datos utilizo bases de datos reacionales y no relacionales, orientadas a documentos: Postgres, MySQL y MongoDB.
+En 2021, decidí comenzar mi carrera en Tecnologías de la Información y Comunicación. Desde entonces, he estado exlorando diferentes paradigmas de desarrollo de sofware y trabajando con diferentes tecnologías Java y Spring Framework, HTML, CSS, JavaScript y Angular. Para la persistencia de datos utilizo bases de datos relacionales y no relacionales, orientadas a documentos: PostgreSQL, MySQL y MongoDB.
 
 ### Metodolgías Ágiles: Scrum & Kanban
 
