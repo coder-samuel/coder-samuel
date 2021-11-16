@@ -1,10 +1,7 @@
 <h1 align=center> System.out.println("Hello World!") :man_technologist: </h1>
-
-<center>
  
 ![cFQIXJ7 - Imgur](https://user-images.githubusercontent.com/80654468/141055895-c71ddf05-a0f6-4432-8ffd-993dbe69adee.gif)
- 
-</center>
+
  
 | eu sou apenas um rapaz latino-americano, sem dinheiro no banco,
  sem parentes importantes e vindo do interior | BELCHIOR
