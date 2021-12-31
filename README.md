@@ -1,4 +1,4 @@
-<h1 align=center> System.out.println("!Hola mundo! ") :man_technologist: </h1>
+<h1 align=center> System.out.println("!Hello word!") :man_technologist: </h1>
  
 | eu sou apenas um rapaz latino-americano, sem dinheiro no banco,
  sem parentes importantes e vindo do interior | BELCHIOR
@@ -22,10 +22,10 @@ PT :brazil: | ES :es: | EN :us:
 
 !Hola! Soy estudiante de Ciencias del Lenguaje en la Universidad Federal de São Paulo y desarrolllador web fullstack egresado de Generation Brasil. 
 
-En 2021, decidí comenzar mi carrera en Tecnologías de la Información y Comunicación. Desde entonces, he estado exlorando diferentes paradigmas de desarrollo de sofware y trabajando con diferentes tecnologías Java y Spring Framework, HTML, CSS, JavaScript y Angular, Thymeleaf y Primefaces. Para la persistencia de datos utilizo bases de datos relacionales y no relacionales: PostgreSQL, MySQL, Oracle y MongoDB.
+En 2021, decidí comenzar mi carrera en Tecnologías de la Información y Comunicación. Desde entonces, he estado explorando diferentes paradigmas de desarrollo de software y trabajando con diferentes tecnologías Java y Spring Framework, HTML, CSS, JavaScript y Angular, Thymeleaf y Primefaces. Para la persistencia de datos utilizo bases de datos relacionales y no relacionales: PostgreSQL, MySQL, Oracle y MongoDB.
 
 <ul> 
- <li> AWS </li>
+ <li> Cloud </li>
  <li> Docker y Kubernetes </li>
  <li> Watson Assistent IBM</li>
 <ul>
