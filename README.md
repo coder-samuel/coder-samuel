@@ -1,7 +1,7 @@
 <h1 align=center> System.out.println("Hello word!") :man_technologist: </h1>
  
-| eu sou apenas um rapaz latino-americano, sem dinheiro no banco,
- sem parentes importantes e vindo do interior | BELCHIOR
+These questions replace our original, "Can machines think?" 
+Alan Turing
 
 PT :brazil: | ES :es: | EN :us:
 
